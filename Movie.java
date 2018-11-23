@@ -1,8 +1,7 @@
 /*
  * The Movie class
  *
- * @author runb-cs111
- */
+ *  */
 
 public class Movie implements Comparable <Movie> {
 
